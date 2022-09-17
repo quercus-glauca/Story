@@ -2,3 +2,7 @@ This is my chapter 1 text file.
 It already has two lines of text.
 May be three...
 Or more. I don't know.
+
+ALIEN
+
+An extraterrestrial or alien is any extraterrestrial lifeform; a lifeform that did not originate on Earth. The word extraterrestrial means "outside Earth". The first published use of extraterrestrial as a noun occurred in 1956, during the Golden Age of Science Fiction.
